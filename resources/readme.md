@@ -17,3 +17,6 @@ Good resources for learning NLP is present in this folder.
 3. [Deep Learning for NLP Tutorial](https://github.com/UKPLab/deeplearning4nlp-tutorial) by UKPLab 
 4. [Introduction to Deep Learning for Natural Language Processing](https://github.com/rouseguy/DeepLearning-NLP) by Bargava
 
+### Latent Semantic Analysis ###
+1. https://en.wikipedia.org/wiki/Latent_semantic_analysis
+2. http://blog.josephwilk.net/projects/latent-semantic-analysis-in-python.html
