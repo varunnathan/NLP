@@ -20,3 +20,7 @@ Good resources for learning NLP is present in this folder.
 ### Latent Semantic Analysis ###
 1. https://en.wikipedia.org/wiki/Latent_semantic_analysis
 2. http://blog.josephwilk.net/projects/latent-semantic-analysis-in-python.html
+
+### FastText - Word Embedding and Text Classification ###
+1. https://www.analyticsvidhya.com/blog/2017/07/word-representations-text-classification-using-fasttext-nlp-facebook/
+
