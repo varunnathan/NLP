@@ -1,0 +1,9 @@
+def _create_intent_token_dict(intents: List[Text],
+     ...:                                   intent_split_symbol: Text) -> Dict[Text, int]:
+     ...:         """Create intent token dictionary"""
+     ...:
+     ...:         distinct_tokens = set([token
+     ...:                                for intent in intents
+     ...:                                for token in intent.split(intent_split_symbol)])
+     ...:         return {token: idx
+     ...:                 for idx, token in enumerate(sorted(distinct_tokens))}
